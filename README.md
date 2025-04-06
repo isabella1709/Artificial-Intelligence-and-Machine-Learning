@@ -40,12 +40,7 @@ git clone https://github.com/isabella1709/Artificial-Intelligence-and-Machine-Le
 cd ai-activities
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run notebooks:
+2. Run notebooks:
 ```bash
 jupyter notebook
 ```
